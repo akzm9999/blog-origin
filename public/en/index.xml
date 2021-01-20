@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOQN [Dev Note]</title>
+    <link>https://akzm9999.github.io/blog/en/</link>
+    <description>Recent content on HOQN [Dev Note]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Jan 2021 00:50:41 +0900</lastBuildDate><atom:link href="https://akzm9999.github.io/blog/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test01</title>
+      <link>https://akzm9999.github.io/blog/en/posts/test01/</link>
+      <pubDate>Thu, 21 Jan 2021 00:50:41 +0900</pubDate>
+      
+      <guid>https://akzm9999.github.io/blog/en/posts/test01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://akzm9999.github.io/blog/en/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akzm9999.github.io/blog/en/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
